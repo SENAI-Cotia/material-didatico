@@ -12,6 +12,38 @@ Pronto, a partir daí você pode utilizar o seu repositório para estruturar o s
 
 ### Criando e editando páginas
 
+#### Estrutura de diretórios
+
+A estrutura inicial de diretórios proposta é a seguinte:
+
+```
+.
+├── index.md 📄
+├── conteudo 📁/
+│   ├── topico-a 📁/
+│   │   ├── pagina-1.md 📄
+│   │   └── pagina-2.md 📄
+│   ├── topico-b 📁
+│   └── topico-c 📁
+├── imagens 📁/
+│   ├── subpasta 📁
+│   └── imagem.png 📄
+└── recursos 📁/
+    ├── apostilas 📁/
+    │   ├── apostila-x.pdf 📄
+    │   └── apostila-y.doc 📄
+    └── apresentações 📁/
+        ├── aula-1.pptx 📄
+        └── aula-2.pdf 📄
+```
+
+- **index.md 📄**: Diretório inicial do site, ele será a página inicial que o GitHub pages irá utilizar, deve funcionar como um índice com links para os demais conteúdos do curso;
+- **conteudo 📁**: diretório onde ficam organizados os documentos de aula em markdown, subdivididos em tópicos, aulas, ou outra organização adotada pelo docente;
+- **imagens 📁**: imagens utilizadas nas páginas;
+- **recursos 📁**: pasta onde podem ser armazenados apresentações e outros recursos didáticos (`.pptx`, `odp`, `.pdf`, etc.);
+
+Recomenda-se preservar esta estrutura mínima, mas novos diretórios podem ser criados e a estrutura interna de organização dos conteúdos fica a cargo de cada professor.
+
 ### Publicando GitHub pages
 
 ---
