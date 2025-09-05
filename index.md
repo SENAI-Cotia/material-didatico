@@ -5,10 +5,24 @@
 - **Autores**: Allyson Souza, Matheus Zacarias
 - **Licença**: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+---
+
+| 🔗 URL                                           | ✉️ E-mail                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------- |
+| https://senai-cotia.github.io/material-didatico/ | allyson.souza@docente.senai.br                             |
+| 🧑‍💻 Codepen                                    | 🌐 Site                                                    |
+| https://codepen.io/professorallysonsouza         | [https://allysonsouza.com.br](https://allysonsouza.com.br) |
+
 
 ## Conteúdo
 
+### Geral
+
+- [Introdução](conteudo/geral/intro)
+
 ### HTML
+
+- 
 
 ### CSS
 
