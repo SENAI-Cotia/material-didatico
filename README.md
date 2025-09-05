@@ -15,4 +15,4 @@ Pronto, a partir daí você pode utilizar o seu repositório para estruturar o s
 ### Publicando GitHub pages
 
 ---
-[Material Didático - {Modelo}](https://github.com/SENAI-Cotia/material-didatico/) © 2025 by [Allyson Souza](https://allysonsouza.com.br/) está licenciado sob [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)![](https://mirrors.creativecommons.org/presskit/icons/cc.svg)![](https://mirrors.creativecommons.org/presskit/icons/by.svg)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg)
+<a href="https://creativecommons.org">Material Didático - {Modelo}</a> © 2025 por <a href="https://creativecommons.org">Allyson Souza</a> é licenciado sob a <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC Icon" style="width: 1em; margin-left: 1em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="By Icon" style="width: 1em; margin-left: 1em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC Icon" style="width: 1em; margin-left: 1em;">
