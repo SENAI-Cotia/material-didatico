@@ -27,7 +27,7 @@ Aluno na pós-graduação em Docência no Ensino Superior no IFSP (Instituto Fed
 
 ## Apresentação da instituição - SENAI Cotia: Ricardo Lerner
 
-![[senai-cotia.png]]
+![Fachada SENAI Cotia](../../imagens/senai-cotia.png)
 
 SENAI Cotia - "Ricardo Lerner"
 
