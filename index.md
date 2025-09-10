@@ -2,7 +2,7 @@
 
 - **Curso**: Desenvolvimento Front-end
 - **Escola**: SENAI Ricardo Lerner
-- **Autores**: Allyson Souza, Matheus Zacarias
+- **Autores**: Allyson Souza
 - **Licença**: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -10,7 +10,7 @@
 | 🔗 URL                                           | ✉️ E-mail                                                  |
 | ------------------------------------------------ | ---------------------------------------------------------- |
 | https://senai-cotia.github.io/material-didatico/ | allyson.souza@docente.senai.br                             |
-| 🧑‍💻 Codepen                                    | 🌐 Site                                                    |
+| 🧑‍💻 **Codepen**                                | 🌐 **Site**                                                |
 | https://codepen.io/professorallysonsouza         | [https://allysonsouza.com.br](https://allysonsouza.com.br) |
 
 
@@ -19,7 +19,6 @@
 ### Geral
 
 - [Introdução](conteudo/geral/intro)
-
 ### HTML
 
 - 
